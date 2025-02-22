@@ -1,1 +1,1 @@
-# Actividad.Extraordinaria
+Esta licencia permite a cualquiera usar, copiar, modificar, publicar y distribuir, también requiere que el aviso de copyright y la licencia de mantengan en todas las copias, y no ofrece garantías ni responsabilidades en software 
